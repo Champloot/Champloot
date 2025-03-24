@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Selenium, Django, Kafka**
 
-- 📝 I regularly write articles on [I am studying at RTU MIREA, in the field of Information security of telecommunication systems. In my free time, I read technical literature, study algorithms and practice CTF and participate in Codeforces competitions and the like.](I am studying at RTU MIREA, in the field of Information security of telecommunication systems. In my free time, I read technical literature, study algorithms and practice CTF and participate in Codeforces competitions and the like.)
-
 - 📫 How to reach me **Champloot@yandex.ru**
+
+- 📄 Know about my experiences [I am studying at RTU MIREA, in the field of Information security of telecommunication systems. In my free time, I read technical literature, study algorithms and practice CTF and participate in Codeforces competitions and the like.](I am studying at RTU MIREA, in the field of Information security of telecommunication systems. In my free time, I read technical literature, study algorithms and practice CTF and participate in Codeforces competitions and the like.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
