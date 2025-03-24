@@ -1,14 +1,18 @@
 <h1 align="center">Hi 👋, I'm Artem</h1>
-<h3 align="center">Computer science student from Russia</h3>
+<h3 align="center">Computer science student from Russia.</h3>
 
 - 🔭 I’m currently working on [HowLongToPlay_Parser](https://github.com/Champloot/HowLongToPlay_Parser)
 
 - 🌱 I’m currently learning **Selenium, Django, Kafka**
 
+- 📝 I regularly write articles on [I am studying at RTU MIREA, in the field of Information security of telecommunication systems. In my free time, I read technical literature, study algorithms and practice CTF and participate in Codeforces competitions and the like.](I am studying at RTU MIREA, in the field of Information security of telecommunication systems. In my free time, I read technical literature, study algorithms and practice CTF and participate in Codeforces competitions and the like.)
+
 - 📫 How to reach me **Champloot@yandex.ru**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codeforces.com/profile/champloot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="champloot" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/champloot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="champloot" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
