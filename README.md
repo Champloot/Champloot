@@ -7,7 +7,8 @@
 
 - 📫 How to reach me **Champloot@yandex.ru**
 
-- ⚡ Fun fact **I am studying at RTU MIREA, in the field of Information security of telecommunication systems. In my free time, I read technical literature, study algorithms and practice CTF and participate in Codeforces competitions and the like.**
+- ⚡ Fun fact 
+**I am studying at RTU MIREA, in the field of Information security of telecommunication systems. In my free time, I read technical literature, study algorithms and practice CTF and participate in Codeforces competitions and the like.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
