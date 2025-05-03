@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [HowLongToPlay_Parser](https://github.com/Champloot/HowLongToPlay_Parser)
 
-- 🌱 I’m currently learning **Selenium, Django, Kafka**
+- 🌱 I’m currently learning **Ansible, Terraform, Kafka**
 
 - 📫 How to reach me **Champloot@yandex.ru**
 
