@@ -31,6 +31,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
   <img width="12" />
 </div>
@@ -48,5 +52,23 @@
   <img width="12" />
 </div>
 
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mint" height="40" alt="mint logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="obsidian logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=regex" height="40" alt="regex logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"  />
+  <img width="12" />
+</div>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=champloot&show_icons=true&locale=en&layout=compact" alt="champloot" /></p>
