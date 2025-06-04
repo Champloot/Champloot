@@ -50,24 +50,24 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sublime" height="40" alt="sublime logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="obsidian logo"  />
+  <img width="12" />
 </div>
 
 ###
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mint" height="40" alt="mint logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mint" height="40" alt="mint logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="obsidian logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=regex" height="40" alt="regex logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"  />
   <img width="12" />
 </div>
 
