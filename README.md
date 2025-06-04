@@ -15,6 +15,7 @@
 <a href="https://www.leetcode.com/champloot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="champloot" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Skills</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
@@ -26,7 +27,7 @@
 
 ###
 
-<div align="center"> Skills
+<div align="center">
   <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=atom" height="40" alt="atom logo"  />
