@@ -26,7 +26,7 @@
 
 ###
 
-<div align="center">
+<div align="center"> Skills
   <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=atom" height="40" alt="atom logo"  />
