@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I am studying at RTU MIREA, in the field of Information security of telecommunication systems. In my free time, I read technical literature, study algorithms and practice CTF and participate in Codeforces competitions and the like.**
 
-<h3 align="left">Find me:</h3>
+<h3 align="left">Im also in:</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/champloot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="champloot" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/champloot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="champloot" height="30" width="40" /></a>
