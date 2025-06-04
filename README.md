@@ -50,8 +50,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sublime" height="40" alt="sublime logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="obsidian logo"  />
-  <img width="12" />
 </div>
 
 ###
