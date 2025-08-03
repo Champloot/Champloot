@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [video-central-system](https://github.com/Champloot/video-central-system)
 
-- 🌱 I’m currently learning **Ansible, Terraform, Kafka**
+- 🌱 I’m currently learning **Ansible, Terraform, Kafka, PHP**
 
 - 📫 How to reach me **Champloot@yandex.ru**
 
