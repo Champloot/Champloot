@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Artem</h1>
 <h3 align="center">Computer science student from Russia.</h3>
 
-- 🔭 I’m currently working on [devops_practice](https://github.com/Champloot/video-central-server)
+- 🔭 I’m currently working on [video-central-system](https://github.com/Champloot/video-central-system)
 
 - 🌱 I’m currently learning **Ansible, Terraform, Kafka**
 
