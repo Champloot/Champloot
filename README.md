@@ -56,10 +56,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=regex" height="40" alt="regex logo"  />
-  <img width="12" />
 </div>
 
 ###
