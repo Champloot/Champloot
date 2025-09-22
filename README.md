@@ -24,8 +24,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=atom" height="40" alt="atom logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sublime" height="40" alt="sublime logo"  />
