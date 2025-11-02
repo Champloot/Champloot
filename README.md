@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [order-service](https://github.com/Champloot/order-service)
 
-- 🌱 I’m currently learning **Kafka, Go, Redis, PHP**
+- 🌱 I’m currently learning **Kafka, Go, Redis**
 
 - 📫 How to reach me **Champloot@yandex.ru**
 
