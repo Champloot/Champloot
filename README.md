@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Artem</h1>
 <h3 align="center">Computer science student from Russia.</h3>
 
-- 🔭 I’m currently working on [task-manager](https://github.com/Champloot/task-manager)
+- 🔭 I’m currently working on [task-manager](https://github.com/Champloot/yomi)
 
-- 🌱 I’m currently learning **Kafka, Go, Redis**
+- 🌱 I’m currently learning **Db, Rust, K8s**
 
 - 📫 How to reach me **Champloot@yandex.ru**
 
